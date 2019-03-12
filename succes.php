@@ -7,7 +7,7 @@
   	</head>
   	<body>
   		<div>
-  			<p><?php echo 'Bravo tu peut maintenant me valider merci !'?></p>
+  			<p><?php echo 'Bravo tu peut maintenant me valider merci à toi !'?></p>
   		</div>
   		<div class="center">
   			<a href="formulaire.php">Retour au formulaire</a>
